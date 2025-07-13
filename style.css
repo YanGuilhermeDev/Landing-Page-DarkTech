@@ -230,3 +230,17 @@ margin-right: auto;
   line-height: 1.6;
 
 }
+
+.card-colum-1{
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  max-width: 500px;
+}
+.card-colum-2{
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  max-width: 500px;
+  margin-left: 60px;
+}
